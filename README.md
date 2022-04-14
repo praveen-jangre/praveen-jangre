@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @praveen-jangre
-- 👀 I’m interested in Application developement. I develop, design and architect application for Android, iOS, macOS and TV platforms.
+- 👀 I’m interested in Application developement. I develop, design and architect applications for Android, iOS, macOS and TV platforms.
 - 🌱 I’m currently learning Swift and JavaScript
 - 💞️ I’m looking to collaborate on application development
 - 📫 My linkedIn page: https://www.linkedin.com/in/praveen-bharat-jangre-7bb47816/
