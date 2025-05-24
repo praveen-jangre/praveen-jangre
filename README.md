@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @praveen-jangre
-- 👀 I’m interested in Application developement. I develop, design and architect applications for Android, iOS, macOS and TV platforms.
-- 🌱 I’m currently learning Swift and JavaScript
-- 💞️ I’m looking to collaborate on application development
-- 📫 My linkedIn page: https://www.linkedin.com/in/praveen-bharat-jangre-7bb47816/
+- 👋 Hi, I’m Praveen
+- 👀 I’m interested in all kinds of Application development. I am highly skilled in iOS and Apple
+mobile technology.
+- 🌱 My works focus on Android, iOS, Mac, Android TV, Apple TV, and Browser platforms.
+- 💞️ I am also interested in Machine Learning and Generative AI.
+- 📫 My LinkedIn page: https://www.linkedin.com/in/praveen-jangre/
 
 <!---
 praveen-jangre/praveen-jangre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
