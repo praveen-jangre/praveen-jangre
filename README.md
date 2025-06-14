@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Praveen
-- 👀 I’m interested in all kinds of Application development. I am highly skilled in iOS and Apple
+- 👀 I’m interested in all kinds of Application development. I am highly skilled in Apple
 mobile technology.
 - 🌱 My works focus on Android, iOS, Mac, Android TV, Apple TV, and Browser platforms.
-- 💞️ I am also interested in Machine Learning and Generative AI.
+💞️ My areas of interest are Mobile technology, Artificial intelligence, Machine learning, Data structure and algorithms, and Generative AI.
 - 📫 My LinkedIn page: https://www.linkedin.com/in/praveen-jangre/
 
 <!---
